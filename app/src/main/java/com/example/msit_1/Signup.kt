@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 
 
-class signup : Fragment() {
+class Signup : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
