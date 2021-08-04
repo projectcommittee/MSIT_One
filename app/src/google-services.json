@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004011330558",
+    "project_id": "msit-one-39a90",
+    "storage_bucket": "msit-one-39a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004011330558:android:05f374e2cb92541d9ffeaf",
+        "android_client_info": {
+          "package_name": "com.example.msit_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004011330558-lagink6p4b6fk21imb1bpeo3kqibr1nk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msit_1",
+            "certificate_hash": "bc01f4ab1bbd5efe1531548d2cae9b508599d76e"
+          }
+        },
+        {
+          "client_id": "1004011330558-dpf16p722epkebac37tamh8fresgd442.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZO90c0yDIeZpHbgJk9A4JseKorxjN5-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004011330558-dpf16p722epkebac37tamh8fresgd442.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

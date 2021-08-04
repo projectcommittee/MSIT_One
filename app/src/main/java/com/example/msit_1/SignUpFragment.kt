@@ -21,6 +21,13 @@ class SignUpFragment : Fragment() {
                 commit()
             }
         }
+        view.iv_back.setOnClickListener {
+            parentFragmentManager.beginTransaction().apply {
+                replace(R.id.container_layout, SignInFragment())
+                disallowAddToBackStack()
+                commit()
+            }
+        }
         return view
     }
 
